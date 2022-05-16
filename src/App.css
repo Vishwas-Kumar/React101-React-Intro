@@ -6,6 +6,34 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbar{
+  display: flex;
+  height: 60px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.logo{
+  margin-left: 50px;
+  margin-top: -8px;
+}
+.spa{
+  display: flex;
+  gap: 20px;
+  margin:auto;
+}
+button{
+margin-right: 150px;
+margin-top: 14px;
+color:white;
+background-color: teal;
+border-radius: 15px;
+width: 40%;
+height: 50%;
+}
+.Mobile{
+  margin-left: 20px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
