@@ -13,7 +13,7 @@ let BodyMobile = () => {
             </div>
             <div>
             <h1>Mobile Manufacturers</h1>
-            <ul>
+            <ul className="list">
                 <li>Samsung</li>
                 <li>HTC</li>
                 <li>Micromax</li>

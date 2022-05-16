@@ -34,6 +34,15 @@ height: 50%;
 .Mobile{
   margin-left: 20px;
 }
+.list li:nth-child(1) {
+list-style-type:square;
+}
+.list li:nth-child(2) {
+  list-style-type:square;
+  }
+.list li:nth-child(4){
+  list-style-type: circle;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
